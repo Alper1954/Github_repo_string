@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github repo list</string>
+    <string-array name="github_users">
+        <item>Alper1954</item>
+        <item>Kadaaran</item>
+    </string-array>
+    <string name="btn_ok">OK</string>
+</resources>
